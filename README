@@ -1,0 +1,7 @@
+Encoded output folder consists of the firmware for the microcontroller and sample program for host side communication.
+
+Serial_output folder has the same thing expecet the communication is done in Ascii bcd format.
+
+depth_to_png.py convert .xyz format to depthmap in .png format.
+
+lidar_visualizer.py is for 2D lidar visualization, its currently being depreciated (until 2D visualization is added back)
